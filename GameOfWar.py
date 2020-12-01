@@ -8,6 +8,7 @@ It would definitely quicker not to cast to str, and even better to do this with 
 3) In the TK canvas
 
 Zoe Berling GameofWar.py COMPLETE 10/14/2020"""
+# DONTBELIKEZOE
 
 import tkinter
 import time
