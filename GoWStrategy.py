@@ -42,7 +42,8 @@ def main():
     emptyList = []
     Player1Strategy = [1, x, k]
     Player2Strategy = [2, z, '']
-
+    
+    # If set to 0, when run, plotStuff() will run (assuming the csv of game stats has been downloaded: see Game_of_War_Strategy_Data with wars.csv)
     times = 0
 
     # how many rounds to play per game before ending game
