@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 sns.set_theme()
+# DONTBELIKEZOE
 # GameVersion == 0:
 # flip first card
 # win: append to back
